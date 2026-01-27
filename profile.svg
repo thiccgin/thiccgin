@@ -25,11 +25,11 @@
   <text x="30" y="30" fill="#c9d1d9">
     <tspan x="30" y="30">matthew rohde</tspan> <tspan class="cc">(</tspan><tspan class="value">@thiccgin</tspan><tspan class="cc">)</tspan> -———————————————————————————————————————————————
     
-    <tspan x="30" y="55" class="cc">. </tspan><tspan class="key">University</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">California State University, Northridge</tspan>
-    <tspan x="30" y="75" class="cc">  </tspan><tspan class="value">Tokyo University of Foreign Studies</tspan>
+    <tspan x="30" y="55" class="cc">. </tspan><tspan class="key">University</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">California State University, Northridge</tspan>
+    <tspan x="30" y="75" class="cc">              ........................ </tspan><tspan class="value">Tokyo University of Foreign Studies</tspan>
 
-    <tspan x="30" y="105" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">Python, Java, React</tspan>
-    <tspan x="30" y="125" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">English, Japanese</tspan>
+    <tspan x="30" y="105" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">Python, Java</tspan>
+    <tspan x="30" y="125" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">English, Japanese</tspan>
 
     <tspan x="30" y="155" class="cc">. </tspan><tspan class="key">Pinned</tspan>.<tspan class="key">Projects</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Kanji Handwriting App</tspan>
     <tspan x="30" y="175" class="cc">  </tspan><tspan class="value">Python Game</tspan>
