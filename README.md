@@ -5,7 +5,8 @@ I'm interested in software engineering, full-stack development, and building too
 
 ## Current Focus
 - Building portfolio projects for software engineering internships
-  - kanji handwriting / SRS study app
+  - Kanji handwriting / SRS study app
+  - Japanese subtitle generator
 - Strengthening data structures and algorithms
 - Passed Japanese Language Profifiency Test (JLPT) N2 and working towards N1
 
