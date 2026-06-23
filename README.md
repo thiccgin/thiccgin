@@ -1,7 +1,6 @@
 # Hi, I'm Matt!
 
-I'm a Computer Science student at CSUN, currently studying abroad in Tokyo.  
-I'm interested in software engineering, full-stack development, and building tools that I get daily use out of.
+I'm interested in software engineering, game development, and building tools that I get daily use out of.
 
 ## Current Focus
 - Building portfolio projects for software engineering internships
