@@ -17,6 +17,9 @@ Built with a focus on language learning, handwriting practice, and long-term mem
 User to user messaging application that supports photos, logins, and profile customization.  
 Built as a group project for COMP 380 (Intro to Software Engineering)
 
+### CSUN Coding Assignments
+A collection of meaningful coding assignments completed in my undergrad at CSU Northridge.
+
 ### Data Structures and Algorithms
 A collection of solved problems and implementations as I study core CS fundamentals.
 
