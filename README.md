@@ -13,7 +13,7 @@ I'm interested in software engineering, full-stack development, and building too
 ## Projects
 ### Kanji Handwriting App
 An SRS-based app for practicing handwriting the 2,136 daily use Japanese kanji.
-Built with a focus on language learning, handwriting practice, and long-term memory
+Built with a focus on language learning, handwriting practice, and long-term memory.
 
 ### Japanese Subtitle Generator
 Many Japanese TV shows and movies don't have subtitles available, so I'm building a chrome extension to help generate these for study purposes.
