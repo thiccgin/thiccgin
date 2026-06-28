@@ -1,17 +1,35 @@
-<h1 align="center">Matt Rohde</h1>
-<h3 align="center">CS Student · CSUN · Exchange Student in Tokyo</h3>
+<h1>Matt Rohde</h1>
 
-<br/>
-
----
-
-## About
-
-Computer Science student at Cal State Northridge (class of 2028), minoring in Japanese. Currently on exchange at Tokyo University of Foreign Studies through August 2026.
+Computer Science student at Cal State Northridge class of 2028, minoring in Japanese. Currently on exchange at Tokyo University of Foreign Studies through August 2026.
 
 - Building **Gakuji**, a kanji SRS app with handwriting recognition
 - Japanese Language Proficiency Test N2 -- awaiting results
-- Open to software engineering internships
+- Shooting for software engineering internships
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13kanaoka/13kanaoka/main/dark_mode.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/13kanaoka/13kanaoka/main/light_mode.svg">
+</picture>
+
+---
+
+## Projects
+
+### [Gakuji](https://github.com/13kanaoka/Gakuji) — Kanji Learning App
+`Flutter` `FastAPI` `PostgreSQL`
+
+Full-stack app for mastering all 2,136 daily-use Japanese kanji. Uses spaced repetition scheduling and handwriting recognition, backed by REST APIs and a PostgreSQL database tracking flashcards, review history, and user progress.
+
+**Status →** In development
+
+---
+
+### [MERN Messaging App](https://github.com/mattres2001/csun-mern-chat-app) — Real-Time Messaging App
+`MongoDB` `Express` `React` `Node.js` `Tailwind CSS`
+
+Built with an agile team using Jira for sprint planning as part of COMP 380 (Intro to Software Engineering). Includes real-time messaging, user authentication, profile management, and photo sharing.
+
+**Status →** Completed
 
 ---
 
@@ -44,28 +62,3 @@ Computer Science student at Cal State Northridge (class of 2028), minoring in Ja
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
-## Projects
-
-### [Gakuji](https://github.com/13kanaoka/Gakuji) — Kanji Learning App
-`Flutter` `FastAPI` `PostgreSQL`
-
-Full-stack app for mastering all 2,136 daily-use Japanese kanji. Uses spaced repetition scheduling and handwriting recognition, backed by REST APIs and a PostgreSQL database tracking flashcards, review history, and user progress.
-
-**Status →** In development
-
----
-
-### [MERN Messaging App](https://github.com/mattres2001/csun-mern-chat-app) — Real-Time Messaging App
-`MongoDB` `Express` `React` `Node.js` `Tailwind CSS`
-
-Built with an agile team using Jira for sprint planning as part of COMP 380 (Intro to Software Engineering). Includes real-time messaging, user authentication, profile management, and photo sharing.
-
-**Status →** Completed
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13kanaoka/github-stat-tracker/main/dark_mode.svg">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/13kanaoka/github-stat-tracker/main/light_mode.svg">
-</picture>
