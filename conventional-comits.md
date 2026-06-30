@@ -9,37 +9,37 @@
 ```
 
 ## Common Types  
-feat: a new user-facing feature 
-fix: a bug fix 
+- feat: a new user-facing feature 
+- fix: a bug fix 
    - (fixing a feature that was already implemented)  
-refactor: code restructuring   
+- refactor: code restructuring   
    - (any non-user facing changes to the code)  
-docs: documentation changes only   
+- docs: documentation changes only   
    - (comments, readme, inline documentation)  
-test: adding or updating tests  
+- test: adding or updating tests  
    - (if test and code are both changed, do not use test)  
-style: formatting, whitespace   
+- style: formatting, whitespace   
    - (no logic change, ie changing a variable name. This is for whitespace, linting fixes, reordering imports)  
-chore: maintenance tasks   
+- chore: maintenance tasks   
    - (things that aren't user facing but don't fit into any other category, ie dependency updates)  
-perf: performance improvements  
+- perf: performance improvements  
 
 ## Decision Tree  
-Is it comments, readme, or inline documentation?  
+- Is it comments, readme, or inline documentation?  
    - docs  
-Is it adding or updating tests?  
+- Is it adding or updating tests?  
    - test  
-Is it adding anything user-facing?  
+- Is it adding anything user-facing?  
    - feat  
-Is it fixing previously shipped code?  
+- Is it fixing previously shipped code?  
    - fix  
-Is it trivial?  
+- Is it trivial?  
    - style  
-Is it substantive?  
+- Is it substantive?  
    - refactor  
-Is it improving performance?  
+- Is it improving performance?  
    - perf  
-Is it tooling or config?  
+- Is it tooling or config?  
    - chore  
 
 ## Examples  
