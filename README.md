@@ -1,16 +1,9 @@
-<p align="center">
+<h1 align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13kanaoka/13kanaoka/main/dark_mode.svg">
   <img alt="GitHub Stats" src="https://raw.githubusercontent.com/13kanaoka/13kanaoka/main/light_mode.svg">
 </picture>
-</p>
-
-
-<p align="center">
-Computer Science student at Cal State Northridge class of 2028, minoring in Japanese. Currently on exchange at Tokyo University of Foreign Studies through August 2026.
-</p>
-
----
+</h1>
 
 ### [Gakuji](https://github.com/13kanaoka/Gakuji) — Kanji Handwriting App
 `Flutter` `FastAPI` `PostgreSQL`
