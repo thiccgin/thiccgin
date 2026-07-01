@@ -1,6 +1,14 @@
-<h1>Matt Rohde</h1>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13kanaoka/13kanaoka/main/dark_mode.svg">
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/13kanaoka/13kanaoka/main/light_mode.svg">
+</picture>
+</p>
 
+
+<p align="center">
 Computer Science student at Cal State Northridge class of 2028, minoring in Japanese. Currently on exchange at Tokyo University of Foreign Studies through August 2026.
+</p>
 
 ---
 
@@ -47,8 +55,3 @@ Built with an agile team using Jira for sprint planning as part of COMP 380 (Int
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13kanaoka/13kanaoka/main/dark_mode.svg">
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/13kanaoka/13kanaoka/main/light_mode.svg">
-</picture>
